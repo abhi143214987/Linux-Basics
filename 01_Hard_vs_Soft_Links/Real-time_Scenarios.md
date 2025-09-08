@@ -11,10 +11,13 @@
 - New version Tomcat 10 is installed in `/opt/tomcat10`.  
 - Instead of changing all config files, update symlink:
 
-```bash
 # Backup old link
+```bash
 mv /opt/tomcat /opt/tomcat_old
+```
 
 # Point to new version
+```bash
 ln -s /opt/tomcat10 /opt/tomcat
+```
 
