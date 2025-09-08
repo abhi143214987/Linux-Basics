@@ -3,7 +3,6 @@
 
 ### 3️⃣ `Real-time_Scenarios.md`
 
-```markdown
 # Real-time Scenarios: Hard vs Soft Links
 
 ### Scenario 1: Software Version Management (Tomcat)
